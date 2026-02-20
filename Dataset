@@ -1,0 +1,9 @@
+## 📂 Dataset
+
+This project uses the **Dogs vs Cats dataset** from Kaggle.
+
+The dataset contains thousands of labeled images of dogs and cats used for binary image classification.
+
+Due to GitHub file size limitations, the dataset is not uploaded to this repository.
+
+👉 Download Dataset: https://www.kaggle.com/competitions/dogs-vs-cats/data
