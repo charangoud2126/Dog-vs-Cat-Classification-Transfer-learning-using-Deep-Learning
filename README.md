@@ -76,8 +76,6 @@ This approach significantly reduces training time while maintaining high accurac
 * Strong classification accuracy
 * Robust performance on unseen images
 
-### (You can optionally add accuracy & loss screenshots here)
-
 ## Key Learnings
 
 Practical understanding of transfer learning
